@@ -1,4 +1,4 @@
-***criar um banco de dados.
+criar um banco de dados.
 
 o mesmo vai receber parâmetros de uma classe chamada clientes.
 
